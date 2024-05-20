@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    align-items: center;
+    background-color: rgb(138, 197, 197);
+    
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    align-items: center;
+}
+
+
